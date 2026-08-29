@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "crm-consultorio-psicologia",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/demo/index.html" },
+    { "source": "/demo", "destination": "/demo/index.html" },
+    { "source": "/demo/", "destination": "/demo/index.html" }
+  ]
+}
