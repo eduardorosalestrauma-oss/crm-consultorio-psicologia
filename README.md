@@ -44,3 +44,5 @@ Este repositorio incluye el archivo `vercel.json` y `index.html` de redirección
 ## 🛠️ Ejecución Local
 
 Abrí `demo/index.html` en tu navegador o serví la carpeta con cualquier servidor HTTP local.
+Agregar servidor Node.js y package.json para Railway
+
